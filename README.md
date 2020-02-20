@@ -1,5 +1,5 @@
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
-
+[![Build Status](https://dev.azure.com/EchoTeamsCIE/Echo%20Teams%20CIE/_apis/build/status/Echo-Teams-CIE.ContosoAir?branchName=master)](https://dev.azure.com/EchoTeamsCIE/Echo%20Teams%20CIE/_build/latest?definitionId=1&branchName=master)
 
 # Microsoft.Github CI Demo
 
